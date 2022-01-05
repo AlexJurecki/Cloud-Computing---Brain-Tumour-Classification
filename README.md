@@ -1,6 +1,8 @@
 # Cloud-Computing---Brain-Tumour-Classification
 a project for Cloud Computing,  2021/2022,
 
+The project aims to use binary classification models to determine, based on a set of parameters extracted from MRI brain images, whether or not a patient has a brain tumor. 
+
 The following resources could be deemed as either necessary or just useful for this project:
 1.	Kaggle – Brain Tumor Dataset – the data files (.csv) were imported from here, plenty of ideas considering machine learning can be found there too:
 https://www.kaggle.com/jakeshbohaju/brain-tumor/
