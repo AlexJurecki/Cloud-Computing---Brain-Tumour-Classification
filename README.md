@@ -25,7 +25,7 @@ Configuration:
 
 •	Create an Azure DataLake Gen2 Storage account and at least one blob container, consider downloading a Storage Explorer
 
-•	Create a Service Principal, register the application , copy the client, tenant IDs, create a new Client secret and copy its value, add a new role assignment storage account (storage blob container contributor).  Consider also creating a Key Vault in Azure where you write down the secrets, then in Databricks homescreen open the hidden UI by appending the address with #secrets/secretsScope and copy data from the key vault. 
+•	Create a Service Principal, register the application , copy the client, tenant IDs, create a new Client secret and copy its value, add a new role assignment storage account (storage blob container contributor).  Consider also creating a Key Vault in Azure where you write down the secrets, then in Databricks homescreen open the hidden UI by appending the address with #secrets/createScope and copy data from the key vault. 
 
 •	Mount the new ADLS container in a databricks notebook using the ids and secrets you’ve saved, attach it to the cluster.
 
