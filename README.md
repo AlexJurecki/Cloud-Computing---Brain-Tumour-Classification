@@ -32,3 +32,5 @@ Configuration:
 •	Upload the dataset into your container.
 
 •	Create a new notebook, attach it to the cluster, and you’re set. 
+
+The notebooks I wrote were exported to jupiter .ipynb file and can be found above. 
